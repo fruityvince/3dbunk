@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Marking menu Personnalis&eacute;",
+		"long_title"	:	"- MAYA -<br>Comment modifier le marking menu de Maya afin d'y mettre vos propres fonctions",
+		"keyword"		:	"maya,marking,radial,menu,override,personnaliser",
+		"desc"			:	"Ce tutorial vous expliquera comment vous affranchir du marking menu conventionnel de Maya afin de cr&eacute;er le votre"
+	},
+	"EN": {
+		"title"			:	"Customizing the Marking Menu",
+		"long_title"	:	"- MAYA -<br>How to edit the Maya's marking menu to add your own features and functions",
+		"keyword"		:	"maya,marking,radial,menu,override,custom",
+		"desc"			:	"This tutorial will explain you how to overcome the conventional marking menu in Maya and create your own"
+	}
+}

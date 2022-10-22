@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"﻿S&eacute;parez les couches d'un Read",
+		"long_title"	:	"- PYTHON SOUS NUKE -<br>S&eacute;parez les couches d'un Read",
+		"keyword"		:	"nuke,noeud,script,couches",
+		"desc"			:	"Cr&eacute;ation simple d'un petit script via le Script Editor de Nuke afin de s&eacute;parer les diff&eacute;rentes couches contenues dans une sequence d'image."
+	},
+	"EN": {
+		"title"			:	"Split the channels from a Nuke's Read node",
+		"long_title"	:	"- PYTHON IN NUKE -<br>Split the channels from a Nuke's Read node",
+		"keyword"		:	"nuke,node,script,channels",
+		"desc"			:	"Making a simple script in Nuke to extract each layers of a file sequence"
+	}
+}

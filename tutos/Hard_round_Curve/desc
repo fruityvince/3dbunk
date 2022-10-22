@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Hard 'n Round",
+		"long_title"	:	"- MAYA -<br>Utilisation de blendShapes et de rebuildCurves pour rendre une curve dure ou arrondie",
+		"keyword"		:	"maya,curve,set-up",
+		"desc"			:	"Petit work-around pour faire passer une curve d'un rig de dure &agrave; arrondie"
+	},
+	"EN": {
+		"title"			:	"Hard 'n Round",
+		"long_title"	:	"- MAYA -<br>Using blendShapes and rebuildCurves to have a hard / round behavior with a curve",
+		"keyword"		:	"maya,curve,rig",
+		"desc"			:	"Little work-around to switch between a round angled curve and a hard angled one"
+	}
+}

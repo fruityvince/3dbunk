@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Introduction au script en Python",
+		"long_title"	:	"- PYTHON ET MAYA -<br>Apprendre le Python appliqu&eacute; &agrave; Maya",
+		"keyword"		:	"python,maya,script",
+		"desc"			:	"Introduction &agrave; la programmation sous Maya, les variables, les fonctions et certains pr&eacute;requis"
+	},
+	"EN": {
+		"title"			:	"Introduction to Python scripting",
+		"long_title"	:	"- PYTHON ET MAYA -<br>Learn Python in Maya",
+		"keyword"		:	"python,maya,script",
+		"desc"			:	"Introduction to Python's scripting in Maya, includes variables, functions and some pre-requisites"
+	}
+}

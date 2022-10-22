@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Coloration syntaxique de l'historique",
+		"long_title"	:	"- MAYA & PYQT -<br>Coloration syntaxique de l'historique du Script Editor de Maya",
+		"keyword"		:	"maya,coloration,syntaxe,script,editor",
+		"desc"			:	"Mise en place d'une classe PyQt afin d'overrider la coloration syntaxique de l'historique du script Editor de Maya"
+	},
+	"EN": {
+		"title"			:	"Color syntax the scriptEditor History",
+		"long_title"	:	"- MAYA & PYQT -<br>Changing the color syntax of the Maya's Script Editor History",
+		"keyword"		:	"maya,color,syntax,script,editor",
+		"desc"			:	"Setting a PyQt class to override the color syntax of Maya's output field"
+	}
+}

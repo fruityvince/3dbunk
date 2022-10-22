@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Attacher un debugger a Maya",
+		"long_title"	:	"- MAYA -<br>Attachez un 'debugger' a Maya",
+		"keyword"		:	"maya,linux,macOS, programming",
+		"desc"			:	"Comment creer et attacher un debugger a une instance de maya pour observer en detail ce qu'il se passe en coulisses"
+	},
+	"EN": {
+		"title"			:	"Attach a debugger to Maya",
+		"long_title"	:	"- MAYA -<br>Attach a 'debugger' against Maya",
+		"keyword"		:	"maya,linux,macOS,programming",
+		"desc"			:	"How to create and attach a debugger against an instance of Maya and see what's going on under the hood"
+	}
+}

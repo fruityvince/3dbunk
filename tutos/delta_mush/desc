@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Cr&eacute;ez votre propre 'lookAt' sous Nuke",
+		"long_title"	:	"- PYTHON SOUS NUKE -<br>Cr&eacute;ez votre propre 'lookAt' 2D",
+		"keyword"		:	"nuke,noeud,orientation",
+		"desc"			:	"Cr&eacute;ation de noeud personnalis&eacute;s sous Nuke, manipulation des transforms des noeuds"
+	},
+	"EN": {
+		"title"			:	"Delta Mush",
+		"long_title"	:	"- MAYA -<br>Theory behind a deltaMush-like deformer",
+		"keyword"		:	"maya,script,deformer,plugin",
+		"desc"			:	"How to create a deformer to smooth and preserve the volume of a mesh"
+	}
+}

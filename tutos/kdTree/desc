@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Introduction aux K-D Trees",
+		"long_title"	:	"- MATHS -<br>Introduction aux k-d trees",
+		"keyword"		:	"maths, python, maya",
+		"desc"			:	"Hierarchiser ses donnees dans un k-d tree pour pouvoir acceder plus rapidement a l'ensemble des points contenus dans l'arbre."
+	},
+	"EN": {
+		"title"			:	"Introduction to K-D Trees",
+		"long_title"	:	"- MATHS -<br>Introduction to k-d trees",
+		"keyword"		:	"maths, python, maya",
+		"desc"			:	"Organize datas in a k-d tree in order to greatly optimize the speed access to every point of the tree"
+	}
+}

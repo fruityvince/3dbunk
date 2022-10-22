@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Cr&eacute;ez votre propre curve dynamique",
+		"long_title"	:   "- Maya Rig -<br>Cr&eacute;ez votre curve dynamique",
+		"keyword"		:	"maya,dynamique,particules,set-up",
+		"desc"			:	"Cr&eacute;ation et param&eacute;trage de particules pour rendre une curve dynamique"
+	},
+	"EN": {
+		"title"			:	"Create your own dynamic curve",
+		"long_title"	:   "- Maya Rigging -<br>Create your own dynamic curve",
+		"keyword"		:	"maya,dynamic,particles,rig",
+		"desc"			:	"Creating and setting particles in order to make curve dynamic"
+	}
+}

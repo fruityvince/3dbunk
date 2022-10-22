@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Renumerotez les vertex de votre mesh",
+		"long_title"	:   "- Maya Dev -<br>Compilez un plug-in natif pour renumeroter vos vertex",
+		"keyword"		:	"maya,API,compilation,renumerotation de vertices",
+		"desc"			:	"Compilez un plug-in livre avec maya pour modifier l'ordre des vertices d'un mesh"
+	},
+	"EN": {
+		"title"			:	"Renumber vertices of your mesh",
+		"long_title"	:   "- Maya Dev -<br>Compile a native plug-in to renumber your vertices",
+		"keyword"		:	"maya,API,compilation,vertices renumber",
+		"desc"			:	"Compile a plug-in delivered with maya to reorder the vertices index of a mesh"
+	}
+}

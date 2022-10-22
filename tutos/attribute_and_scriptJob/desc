@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Les attributs et les scriptJob",
+		"long_title"	:	"- Maya & Python -<br>Le scriptJob et le scriptNode",
+		"keyword"		:	"maya,attribut,scriptJob,scriptNode",
+		"desc"			:	"Gestion d'un attribut activant un scriptJob."
+	},
+	"EN": {
+		"title"			:	"Attribute and scriptJob",
+		"long_title"	:	"- Maya & Python -<br>the scriptJob and the scriptNode",
+		"keyword"		:	"maya,attribute,scriptJob,scriptNode",
+		"desc"			:	"Making an attribute which will activate a scriptJob"
+	}
+}

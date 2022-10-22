@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Attacher un point &agrave; une shape",
+		"long_title"	:	"- MAYA -<br>Attacher une follicle a une shape",
+		"keyword"		:	"maya,hair,manipulation des noeuds",
+		"desc"			:	"Cr&eacute;ation d'un noeud de follicle sous maya pour contraindre des &eacute;l&eacute;ments &agrave; des shapes"
+	},
+	"EN": {
+		"title"			:	"Attach a point to a shape",
+		"long_title"	:	"- MAYA -<br>Attach a follicle node to a shape",
+		"keyword"		:	"maya,hair,node manipulation",
+		"desc"			:	"Making follicles in Maya in order to constraints elements to shapes"
+	}
+}

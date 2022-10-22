@@ -1,0 +1,12 @@
+{
+	"FR": {
+		"title"			:	"Gamma et workflow lin&eacute;aire",
+		"keyword"		:	"nuke,gamma,lin&eacute;aire,workflow",
+		"desc"			:	"Gestion du workflow lin&eacute;aire, th&eacute;orie sur le gamma"
+	},
+	"EN": {
+		"title"			:	"Gamma & Linear Workflow",
+		"keyword"		:	"nuke,gamme,linear,workflow",
+		"desc"			:	"Handle linear workflow, gamma theory"
+	}
+}

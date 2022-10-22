@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Cr&eacute;ez votre propre 'lookAt' sous Nuke",
+		"long_title"	:	"- PYTHON SOUS NUKE -<br>Cr&eacute;ez votre propre 'lookAt' 2D",
+		"keyword"		:	"nuke,noeud,orientation",
+		"desc"			:	"Cr&eacute;ation de noeud personnalis&eacute;s sous Nuke, manipulation des transforms des noeuds"
+	},
+	"EN": {
+		"title"			:	"Create you own LookAt Node in Nuke",
+		"long_title"	:	"- PYTHON IN NUKE -<br>Create you own 2D LookAt Node",
+		"keyword"		:	"nuke,node,lookAt,aim",
+		"desc"			:	"Making of a custom Nuke's node, manipulating nodes' transforms"
+	}
+}

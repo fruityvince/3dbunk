@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Cr&eacute;ation d'un ﻿IK &eacute;tirable",
+		"long_title"	:	"- MAYA -<br>Creer un bras IK / FK &eacute;tirable",
+		"keyword"		:	"maya,node editor,manipulation des noeuds",
+		"desc"			:	"Cr&eacute;ation d'un syst&egrave;me d'IK pour un bras avec des fonctionnalit&eacute;s avanc&eacute;es"
+	},
+	"EN": {
+		"title"			:	"Create a stretchy IK",
+		"long_title"	:	"- MAYA -<br>How to create a stretchable IK FK arm",
+		"keyword"		:	"maya,node editor,node manipulation",
+		"desc"			:	"Step-by-step creation of an IK arm system, with advanced features"
+	}
+}

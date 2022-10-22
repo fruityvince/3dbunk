@@ -1,0 +1,12 @@
+{
+	"FR": {
+		"title"			:	"Calculer une passe d'ambiant occlusion",
+		"keyword"		:	"maya,mentalRay,rendu",
+		"desc"			:	"Calculer une image en ambiant occlusion en utilisant une texture mentalRay"
+	},
+	"EN": {
+		"title"			:	"Render an ambiant occlusion pass",
+		"keyword"		:	"maya,rendering,mentalRay",
+		"desc"			:	"Rendering an image in ambiant occlusion, using a mentalRay texture"
+	}
+}

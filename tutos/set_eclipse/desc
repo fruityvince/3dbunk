@@ -1,0 +1,14 @@
+{
+	"FR": {
+		"title"			:	"Configurer Eclipse pour Windows/Maya",
+		"long_title"	:	"- MAYA & ECLIPSE -<br>Regler et connecter l'editeur de script Eclipse",
+		"keyword"		:	"maya,IDE,python,script",
+		"desc"			:	"Configuration de l'IDE Eclipse pour Windows et connection &agrave; Maya"
+	},
+	"EN": {
+		"title"			:	"Setting Eclipse for Windows/Maya",
+		"long_title"	:	"- MAYA & ECLIPSE -<br>Setting and connect Eclipse Editor",
+		"keyword"		:	"maya,IDE,python,script",
+		"desc"			:	"Setting up Eclipse IDE for windows and configure a bridge with Maya"
+	}
+}
